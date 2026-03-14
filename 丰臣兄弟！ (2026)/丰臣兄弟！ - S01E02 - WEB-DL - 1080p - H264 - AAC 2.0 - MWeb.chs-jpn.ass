@@ -10,7 +10,7 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: CN,PingFang SC,65,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2.5,1,2,10,10,100,1
+Style: CN,PingFang SC,65,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0,0,1,2.5,1,2,10,10,80,1
 Style: JP,Hiragino Sans,45,&H0099CCDE,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,35,1
 
 [Events]
